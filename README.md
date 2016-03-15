@@ -1,1 +1,2 @@
-[![Build Status](https://travis-ci.org/mluukkai/ohtutesti16.svg?branch=master)](https://travis-ci.org/mluukkai/ohtutesti16)
+[![Build Status](https://travis-ci.org/Rochet2/ohtu-viikko1.svg?branch=master)](https://travis-ci.org/Rochet2/ohtu-viikko1)
+
